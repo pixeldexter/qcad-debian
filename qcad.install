@@ -11,8 +11,6 @@ release/libqcadoperations.so    usr/lib/qcad/
 release/libqcadsnap.so          usr/lib/qcad/
 release/libqcadspatialindex.so  usr/lib/qcad/
 release/libqcadstemmer.so       usr/lib/qcad/
-release/libqcadzip.so           usr/lib/qcad/
-release/libquazip.so            usr/lib/qcad/
 release/libspatialindexnavel.so usr/lib/qcad/
 
 fonts/      usr/share/qcad/

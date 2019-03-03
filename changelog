@@ -1,3 +1,9 @@
+qcad (3.22.0.0-1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Eugene Kilachkoff <ekilachkoff@gmail.com>  Sat, 02 Mar 2019 06:11:35 +0400
+
 qcad (3.21.3.17-1) unstable; urgency=medium
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
