@@ -1,0 +1,16 @@
+/qcad
+/tmp
+/files
+
+.debhelper
+*.debhelper
+*.debhelper.log
+debhelper-*-stamp
+*.substvars
+*.deb
+*.ex
+
+Thumbs.db
+.DS_Store
+*.swp
+*~
