@@ -1,0 +1,2 @@
+?package(qcad):needs="X11" section="Applications/Graphics"\
+  title="qcad" command="/usr/bin/qcad"

@@ -1,0 +1,28 @@
+#! /usr/bin/dh-exec
+debian/qcad.run => usr/bin/qcad
+
+release/qcad-bin                usr/lib/qcad/
+release/libqcadcore.so          usr/lib/qcad/
+release/libqcadecmaapi.so       usr/lib/qcad/
+release/libqcadentity.so        usr/lib/qcad/
+release/libqcadgrid.so          usr/lib/qcad/
+release/libqcadgui.so           usr/lib/qcad/
+release/libqcadoperations.so    usr/lib/qcad/
+release/libqcadsnap.so          usr/lib/qcad/
+release/libqcadspatialindex.so  usr/lib/qcad/
+release/libqcadstemmer.so       usr/lib/qcad/
+release/libqcadzip.so           usr/lib/qcad/
+release/libquazip.so            usr/lib/qcad/
+release/libspatialindexnavel.so usr/lib/qcad/
+
+fonts/      usr/share/qcad/
+libraries/  usr/share/qcad/
+linetypes/  usr/share/qcad/
+patterns/   usr/share/qcad/
+plugins/    usr/lib/qcad/
+scripts/    usr/share/qcad/
+themes/     usr/share/qcad/
+ts/         usr/share/qcad/
+
+qcad.desktop  usr/share/applications
+
