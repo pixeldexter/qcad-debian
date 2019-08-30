@@ -1,11 +1,10 @@
 --- a/qcad.pro
 +++ b/qcad.pro
-@@ -12,7 +12,7 @@
+@@ -12,7 +12,6 @@
      }
  }
  else {
--    SUBDIRS += $$system("ls -d ../qcad?* 2>/dev/null | grep -v $(basename $(pwd))$ | grep -v qcadmobile")
-+#    SUBDIRS += $$system("ls -d ../qcad?* 2>/dev/null | grep -v $(basename $(pwd))$ | grep -v qcadmobile")
+-    SUBDIRS += $$system("ls -d ../qcad?* 2>/dev/null | grep -v $(basename $(pwd))$")
  }
  
  !r_mobile {
