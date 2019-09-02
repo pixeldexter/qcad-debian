@@ -14,10 +14,13 @@ Build-Depends: debhelper (>= 9),
         libssl-dev,
         libdbus-1-dev,
         libsm-dev,
-        qt4-qmake,
-        libqtwebkit-dev,
-        libqt4-dev,
-        libqt4-opengl-dev
+        qt5-qmake,
+        qtbase5-dev,
+        qtscript5-dev,
+        qttools5-dev,
+        libqt5opengl5-dev,
+        libqt5svg5-dev,
+        libqt5xmlpatterns5-dev
 Standards-Version: 3.9.8
 Homepage: http://qcad.org
 #Vcs-Git: https://anonscm.debian.org/collab-maint/qcad.git
