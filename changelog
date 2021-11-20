@@ -1,3 +1,9 @@
+qcad (3.26.4.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Eugene Kilachkoff <ekilachkoff@gmail.com>  Sat, 20 Nov 2021 18:58:24 +0400
+
 qcad (3.23.0.0-2) unstable; urgency=medium
 
   * Use QT5
